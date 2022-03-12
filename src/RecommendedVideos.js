@@ -12,11 +12,66 @@ function RecommendedVideos() {
           title="Become a web devloper"
           views="2.3M Views"
           timestamp="3 days ago"
-          channelImage="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
+          video ="https://www.youtube.com/watch?v=QFVOIXR8soQ"
           channel="Manish Prasad"
           image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
         />
+        
         <VideoCard 
+          title="Become a web devloper"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          video ="https://www.youtube.com/watch?v=QFVOIXR8soQ"
+          channel="Manish Prasad"
+          image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
+        />
+
+        <VideoCard 
+          title="Become a web devloper"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          video ="https://www.youtube.com/watch?v=QFVOIXR8soQ"
+          channel="Manish Prasad"
+          image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
+        />
+
+        <VideoCard 
+          title="Become a web devloper"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          video ="https://www.youtube.com/watch?v=QFVOIXR8soQ"
+          channel="Manish Prasad"
+          image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
+        />
+
+        <VideoCard 
+          title="Become a web devloper"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          video ="https://www.youtube.com/watch?v=QFVOIXR8soQ"
+          channel="Manish Prasad"
+          image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
+        />
+
+        <VideoCard 
+          title="Become a web devloper"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          video ="https://www.youtube.com/watch?v=QFVOIXR8soQ"
+          channel="Manish Prasad"
+          image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
+        />
+
+        <VideoCard 
+          title="Become a web devloper"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          video ="https://www.youtube.com/watch?v=QFVOIXR8soQ"
+          channel="Manish Prasad"
+          image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
+        />
+        
+        {/* <VideoCard 
           title="Become a web devloper"
           views="2.3M Views"
           timestamp="3 days ago"
@@ -87,7 +142,7 @@ function RecommendedVideos() {
           channelImage="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
           channel="Manish Prasad"
           image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
-        />
+        /> */}
         
       </div>
     </div>

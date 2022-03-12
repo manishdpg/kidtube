@@ -1,10 +1,17 @@
 import React from 'react';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
-
-function VideoCard({ image, title, channel, views, timestamp, channelImage }) {
+import VideoApp from './VideoApp';
+//image, 
+//title, channel, views, timestamp, channelImage
+function VideoCard({ video,title, channel, views, timestamp, channelImage }) {
   return (
     <div className="videoCard">
-        <img className="videoCard__thumbnail"src={image} alt="" />
+        {/* <img className="videoCard__thumbnail"src={image} alt="" /> */}
+        <VideoApp 
+            className="videoCard__thumbnail"
+            video = {video}
+        
+        />
         <div className="videoCard__info">
             <AccountCircleIcon 
                 className="videoCard__avatar" 

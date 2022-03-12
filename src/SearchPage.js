@@ -33,7 +33,7 @@ function SearchPage() {
           description="Do you want a free one hour training"
           timestamp="59 second ago"
           channel="Manish Prasad"
-          title = "Let's build a you tube clone with react js"
+          title = "Let's build kidTube with react js"
           image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
         />
 
@@ -43,7 +43,7 @@ function SearchPage() {
           description="Do you want a free one hour training"
           timestamp="59 second ago"
           channel="Manish Prasad"
-          title = "Let's build a you tube clone with react js"
+          title = "Let's build Kidtube with react js"
           image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
         />
 
@@ -53,7 +53,7 @@ function SearchPage() {
           description="Do you want a free one hour training"
           timestamp="59 second ago"
           channel="Manish Prasad"
-          title = "Let's build a you tube clone with react js"
+          title = "Let's build a KidTube with react js"
           image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
         />
 
@@ -63,7 +63,7 @@ function SearchPage() {
           description="Do you want a free one hour training"
           timestamp="59 second ago"
           channel="Manish Prasad"
-          title = "Let's build a you tube clone with react js"
+          title = "Let's build kidTube with react js"
           image="https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/35634037_998867910291422_4450539854798782464_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ebX8EOmZPVEAX8wGarV&tn=CMPs4V8RYCfzBEuZ&_nc_ht=scontent.fdel11-1.fna&oh=00_AT9mLdnYxIVS1IG-aeLWxGAZbebo3-SINe5V0gyqpeiv_g&oe=6240AC53"
         />
     </div>

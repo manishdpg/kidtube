@@ -3,10 +3,13 @@ import ReactPlayer from 'react-player';
 
 
 
-function VideoApp() {
+function VideoApp({video}) {
   return (
     <div className="VideoApp">
-        <ReactPlayer controls url="https://www.youtube.com/watch?v=VAG-6f8qMvI"/>
+        <ReactPlayer controls url={video}
+          width={300}
+          height={200}
+        />
     </div>
   )
 }
